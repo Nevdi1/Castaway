@@ -1,0 +1,7 @@
+<svg viewBox="0 0 71.0041 40.0078" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="71.004089" height="40.007812" fill="none" customFrame="#000000">
+	<g id="Группа 1">
+		<rect id="Прямоугольник 1" width="71.000000" height="2.000000" x="0.000000" y="19.003906" rx="1.000000" fill="rgb(255,255,255)" />
+		<path id="Линия 1" d="M0 0L26.8701 0" stroke="rgb(255,255,255)" stroke-linecap="round" stroke-width="2.000000" transform="matrix(0.707107,0.707107,-0.707107,0.707107,51,1.00391)" />
+		<path id="Линия 2" d="M0 0L26.8701 0" stroke="rgb(255,255,255)" stroke-linecap="round" stroke-width="2.000000" transform="matrix(-0.707107,0.707107,0.707107,0.707107,70,20.0039)" />
+	</g>
+</svg>
